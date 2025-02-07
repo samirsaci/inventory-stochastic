@@ -10,7 +10,7 @@ For most retailers, inventory management systems take a fixed, rule-based approa
 Considering the distribution of the demand, the objective is to build a replenishment policy that will minimize your ordering, holding and shortage costs.
 
 ### Article
-In this [Article](https://towardsdatascience.com/inventory-management-for-retail-stochastic-demand-3020a43d1c14), we will improve this model and introduce a simple methodology using a discrete simulation model 
+In this [Article](https://medium.com/towards-data-science/inventory-management-for-retail-stochastic-demand-3020a43d1c14), we will improve this model and introduce a simple methodology using a discrete simulation model 
 built with Python to test several inventory management rules assuming a normal distribution of the customer demand.
 
 ### Problem Statement

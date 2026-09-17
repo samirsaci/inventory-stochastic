@@ -33,7 +33,7 @@ For each SKU, you would like to build a simple simulation model to test several 
 What impacts your logistic performance?
 
 ### Data set
-This analysis will be based on the M5 Forecasting dataset of Walmart stores' sales records ([Link](https://www.kaggle.com/c/m5-forecasting-accuracy)).
+This analysis will be based on the M5 Forecasting dataset of Walmart stores' sales records ([Link](https://www.kaggle.com/competitions/m5-forecasting-accuracy)).
 
 ## Code
 In this repository, you will find all the code used to explain the concepts presented in the article.
@@ -57,7 +57,14 @@ python inventory_stochastic.py
 - statsmodels
 
 
-## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/).\
-For more case studies, check my [Personal Website](https://samirsaci.com).
+## Go further
+
+- **The full write-up, with the reasoning behind the code:** [Inventory Management for Retail — Stochastic Demand](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/?utm_source=github&utm_medium=readme&utm_campaign=inventory-stochastic)
+- **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=inventory-stochastic) has lessons and quizzes on inventory management, free and in the browser.
+- **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=inventory-stochastic)
+
+## About me
+
+Samir Saci, supply chain engineer and data scientist with ten years in operations across Asia and Europe. Founder of [LogiGreen](https://www.logi-green.com/), creator of [Supply Science](https://www.youtube.com/@SupplyScience).
+For consulting on analytics and sustainable supply chain transformation: [LogiGreen](https://www.logi-green.com/). More about me: [samirsaci.com/about](https://www.samirsaci.com/about/) · [LinkedIn](https://www.linkedin.com/in/samir-saci/)
+

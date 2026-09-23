@@ -19,6 +19,12 @@ Given the demand distribution, the objective is to develop a replenishment polic
 In this [Article](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/), we will improve this model and introduce a simple methodology using a discrete simulation model 
 built with Python to test several inventory management rules, assuming a normal distribution of the customer demand.
 
+### Youtube Video
+Click on the image below to access the video tutorial that explains the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1oRebt_Q0dY"><img src="https://i.ytimg.com/vi/1oRebt_Q0dY/hqdefault.jpg" alt="Too Much Stock or Empty Shelves: Python Finds the Middle"></a>
+</div>
+
 ### Problem Statement
 As an Inventory Manager at a mid-sized retail chain, you are responsible for setting replenishment quantities in the ERP.
 
@@ -60,6 +66,7 @@ python inventory_stochastic.py
 ## Go further
 
 - **The full write-up, with the reasoning behind the code:** [Inventory Management for Retail — Stochastic Demand](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/?utm_source=github&utm_medium=readme&utm_campaign=inventory-stochastic)
+- **The video:** [Too Much Stock or Empty Shelves: Python Finds the Middle](https://youtu.be/1oRebt_Q0dY)
 - **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=inventory-stochastic) has lessons and quizzes on inventory management, free and in the browser.
 - **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=inventory-stochastic)
 
